@@ -1,0 +1,5 @@
+{
+  "name": "RemoveAI - Instant Background Remover",
+  "description": "An AI-powered tool to automatically remove the background from any image instantly. Upload a photo and get a transparent background in seconds.",
+  "requestFramePermissions": []
+}
